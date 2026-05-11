@@ -1,5 +1,5 @@
 👋 Hi, I’m @Shadmerov    
-👾 Web Developer  
+👾 Mobile/Web Developer  
 🔭 Currently Studying on POLITO UNI to level up my skills    
 🌱 Always learning new tricks in web development and software engineering      
 👯 Looking to collaborate on fun, impactful projects that teach me new things      
